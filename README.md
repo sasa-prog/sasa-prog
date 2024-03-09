@@ -1,6 +1,6 @@
 # そこらへんに生えてる笹です
 中学校2年生です。
-## プログラミングで遊んでます
+## プログラミングを主にしています
 JS / TS / Java / Python / etc...
-### 置いてあるレポジトリでまともなものは少ないです
+### エンジニア目指して勉強中
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasa-prog)
